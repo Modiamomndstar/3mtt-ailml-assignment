@@ -1,0 +1,1 @@
+print("my 3mtt AIML script file")
